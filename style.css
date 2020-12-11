@@ -1,0 +1,23 @@
+ body {
+ 	background-image: url(images/fondsite.jpg);
+    color: rgb(6 4 37);
+    font-family: Superclarendon;
+    font-weight: 100
+}
+h1 { 
+	color: #4444b7;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    font-size: 40px;
+
+}
+h2 {
+	color: #0d0d82;
+    font-family: DIN Condensed;
+    letter-spacing: 0px;
+    font-size: 25px;
+    font-weight: initial;
+
+}
+
